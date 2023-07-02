@@ -6,7 +6,7 @@
   align-items: center;
   height: 100vh;
   flex-direction: column;
-  background-color: #f4f4f4f4;
+  background-color: rgb(234, 230, 230);
 }
 
 .gameboard {
